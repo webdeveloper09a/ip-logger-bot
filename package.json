@@ -1,5 +1,5 @@
 {
-  "name": "ip-logger-bot",
+  "name": "ip-logger-redirect",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
